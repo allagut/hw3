@@ -1,7 +1,7 @@
 # hw3
 
 ссылка на сам опрос (открыла редактирование):
-https://docs.google.com/forms/d/e/1FAIpQLSfziSzZ-sIUqnSmmhmMMVdafr3SrcHyYZ-_5lraNF8c4igPSQ/viewform
+https://docs.google.com/forms/d/1k-cNYe2E2jgJoQbPwXnMgMp1sLpMjMce6GsZPCEmrRI/edit?usp=sharing
 
 ссылка на таблицу:
 https://docs.google.com/spreadsheets/d/15trJryrg4c9GOyAUJZP62FdS3jzmsEGggMpIjqtfuIU/edit#gid=451575414
